@@ -1,4 +1,4 @@
 print("Hello Git and GitHub")
 print("create feature")
 print("learning Github")
-print("Learning Pull Request")
+print("Learning Pull Requests")
